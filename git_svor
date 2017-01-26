@@ -12,4 +12,14 @@
 			d.segir þér hvaða möppu þú ert í
 			e.býr til möppu
 
-
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+			klónar innihald í nýja skrá
+			sýnir framin 
+			Birtir leiðir sem hafa mismun milli vísitölu skráar og núverandi yfir geranda
+			Sýnir breytingar milli vinnandi tré og vísitölu tré
+			Uppfærir skrár í vinnu trénu til að passa við útgáfu í vísitölu eða tiltekins tré
