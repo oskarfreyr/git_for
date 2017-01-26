@@ -9,3 +9,10 @@ tala1 = int(input("Sláðu inn aðra tölu"))
 summa = tala + tala1
 print(int(summa))
 
+#Dæmi 2
+fyrr = input("Sláðu inn fornafn þitt")
+seinn = input("Sláðu inn eftirnafn þitt")
+
+print("Halló", fyrr, seinn)
+
+
