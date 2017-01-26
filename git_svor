@@ -23,3 +23,11 @@
 			Birtir leiðir sem hafa mismun milli vísitölu skráar og núverandi yfir geranda
 			Sýnir breytingar milli vinnandi tré og vísitölu tré
 			Uppfærir skrár í vinnu trénu til að passa við útgáfu í vísitölu eða tiltekins tré
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+			a.git diff Sýnir breytingar milli vinnandi tré og vísitölu tré
+			b.git diff --staged synir breytingar á nú þegar breyttum hlutum
+			c.git diff commit1 commit2 sýnir mismun á sumum eða öllum möppum
