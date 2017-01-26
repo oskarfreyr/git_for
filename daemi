@@ -1,0 +1,11 @@
+#Óskar Freyr
+#26.1.17
+
+#Dæmi 1
+summa = 0
+tala = int(input("Sláðu inn tölu"))
+tala1 = int(input("Sláðu inn aðra tölu"))
+
+summa = tala + tala1
+print(int(summa))
+
